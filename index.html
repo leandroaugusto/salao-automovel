@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>wayfinding</title>
+	<meta name="viewport" content="width=device-width">
+	<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+	<div id="content">
+		<div id="controls">
+			<label for="beginSelect">Ir de: </label>
+			<select id="beginSelect">
+				<option value="Entrance">Entrada</option>
+				<option value="A1">A1</option>
+				<option value="A2">A2</option>
+				<option value="A3">A3</option>
+			</select>
+
+			<label for="endSelect">Para: </label>
+			<select id="endSelect">
+				<option value="Entrance">Entrada</option>
+				<option value="A1">A1</option>
+				<option value="A2">A2</option>
+				<option value="A3">A3</option>
+			</select>
+		</div>
+
+		<div id="myMaps"></div>
+	</div>
+
+	<script src="js/jquery.js"></script>
+	<script src="js/jquery.wayfinding.js"></script>
+	<script src="js/main.js"></script>
+</body>
+</html>

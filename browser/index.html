@@ -1,0 +1,66 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>wayfinding</title>
+	<meta name="description" content="">
+	<meta name="viewport" content="width=device-width">
+	<link rel="stylesheet" href="css/main.css">
+	<style>
+		.custom-menu {
+			display: none;
+			z-index: 1000;
+			position: absolute;
+			overflow: hidden;
+			border: 1px solid #CCC;
+			white-space: nowrap;
+			font-family: sans-serif;
+			background: #FFF;
+			color: #333;
+			border-radius: 5px;
+			padding: 0;
+		}
+
+		/* Each of the items in the list */
+		.custom-menu li {
+			padding: 8px 12px;
+			cursor: pointer;
+			list-style-type: none;
+		}
+
+		.custom-menu li:hover {
+			background-color: #DEF;
+		}
+	</style>
+</head>
+<body>
+	<div id="content">
+		<div id="controls">
+			<label for="beginSelect">Ir de: </label>
+			<select id="beginSelect">
+				<option value="Entrance">Entrada</option>
+				<!-- <option value="A1">A1</option>
+				<option value="A2">A2</option>
+				<option value="A3">A3</option>
+				<option value="A4">A4</option> -->
+				<option value="Exit">Saída</option>
+			</select>
+			<label for="endSelect">Para: </label>
+			<select id="endSelect">
+				<option value="Entrance">Entrada</option>
+				<!-- <option value="A1">A1</option>
+				<option value="A2">A2</option>
+				<option value="A3">A3</option>
+				<option value="A4">A4</option> -->
+				<option value="Exit">Saída</option>
+			</select>
+		</div>
+		<div id="myMaps"></div>
+	</div>
+
+	<script src="js/jquery.js"></script>
+	<script src="js/wayfinding.js"></script>
+	<script src="js/main.js"></script>
+</body>
+</html>
