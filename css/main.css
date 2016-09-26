@@ -47,8 +47,8 @@ div#mapLoading {
 }
 
 .wayfindingRoom {
-	fill: #ffc;
-	stroke: blue;
+	fill: #000;
+	stroke: transparent;
 	stroke-width: 2;
 	stroke-dasharray: 5 3;
 }
