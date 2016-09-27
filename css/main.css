@@ -1,6 +1,15 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+html, body {
+	width: 100%;
+	position: relative;
+	min-height: 100%
+}
+
 body {
-	background-color: white;
-	border: 1px solid black;
 	font-family: Arial;
 	font-size: 14px;
 }
@@ -9,23 +18,156 @@ a img {
 	border: none;
 }
 
-#controls {
-	background-color: lightGrey;
-	display: block;
-	height: 50px;
-	padding: 10px 0 0 10px;
-	//width: 960px;
-	z-index:-1;
+#content {
+	width: 100%;
+	height: 100%;
+	text-align: center;
 }
+
+h1 {
+	position: relative;
+	z-index: 2;
+	color: #fff;
+	padding-top: 2rem;
+	font-weight: lighter;
+	text-transform: uppercase;
+}
+h1 strong {
+	font-weight: bold;
+}
+
+#findAgain {
+	width: 100%;
+	background-color: #8a8a8a;
+	padding: 2rem 0;
+	position: absolute;
+	top: 0;
+}
+#findButton {
+	border: 0;
+	outline: none;
+	cursor: pointer;
+	border-radius: 14px;
+	margin-top: 3rem;
+	background-color: #2383a2;
+	color: #fff;
+	padding: 0.5rem 1rem;
+	-webkit-transition: 0.5s;
+	-moz-transition: 0.5s;
+	-ms-transition: 0.5s;
+	-o-transition: 0.5s;
+	transition: 0.5s;
+}
+#findButton.hide {
+	visibility: hidden;
+	opacity: 0;
+}
+
+#modalSelect {
+	position: fixed;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(0,0,0,.8);
+	box-sizing: border-box;
+	-webkit-transition: 0.5s;
+	-moz-transition: 0.5s;
+	-ms-transition: 0.5s;
+	-o-transition: 0.5s;
+	transition: 0.5s;
+}
+#modalSelect.hide {
+	opacity: 0;
+	visibility: hidden;
+}
+#modalSelect:before {
+	content: '';
+	display: inline-block;
+	vertical-align: middle;
+	position: relative;
+	height: 100%;
+}
+#controls {
+	display: inline-block;
+	vertical-align: middle;
+	width: 330px;
+}
+#controls fieldset {
+	border: 0;
+	position: relative;
+}
+#controls fieldset:after {
+	content: '';
+	display: block;
+	position: absolute;
+	bottom: 13px;
+	right: 14px;
+	border-top: 8px solid #000;
+	border-left: 8px solid transparent;
+	border-right: 8px solid transparent;
+}
+#controls fieldset + fieldset {
+	margin-top: 3rem;
+}
+#controls fieldset label {
+	color: #fff;
+	display: block;
+	margin-bottom: 0.5rem;
+}
+#controls fieldset select {
+	-webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+	border: 1px solid #000;
+	border-radius: 14px;
+	text-transform: uppercase;
+	padding: 0.7rem 0.8rem;
+	text-align: center;
+	width: 100%;
+	color: #fff;
+	outline: none;
+	background-color: #4c4c4c;
+}
+#controls fieldset select option {
+	text-align: center;
+}
+#controls button {
+	cursor: pointer;
+	border: 0;
+	width: 50px;
+	height: 50px;
+	float: right;
+	border-radius: 50%;
+	background-color: #2383a2;
+	outline: none;
+	position: relative;
+	margin-top: 1rem;
+	text-indent: -9999px;
+}
+#controls button:before {
+	content: '';
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	margin-left: -3px;
+	margin-top: -8px;
+	width: 0;
+	height: 0;
+	border-left: 10px solid #000;
+	border-top: 10px solid transparent;
+	border-bottom: 10px solid transparent;
+	display: block;
+}
+
 div#myMaps {
+	margin: 6rem auto 0;
+	width: 1280.17px;
 	height: 450px;
-	padding-left: 175px;
-	width: 960px;
 }
 div#myMaps div {
 	display: inline-block;
-	height: 960px;
-	width: 300px;
+	width: 100%;
 }
 div#mapLoading {
 	font-size: 10em;
@@ -39,13 +181,11 @@ div#mapLoading {
 	stroke: orange;
 	stroke-width: 5;
 }
-
 .debugRoom {
 	fill: red;
 	stroke: red;
 	stroke-width: 4;
 }
-
 .wayfindingRoom {
 	fill: #000;
 	stroke: transparent;

@@ -24,16 +24,31 @@ $(document).ready(function () {
 	});
 
 	//Make the floor buttons clickable
-	$('#controls #beginSelect').change(function () {
-		$('#myMaps').wayfinding('startpoint', $(this).val());
-		if ($('#controls #endSelect').val() !== '') {
-			$('#myMaps').wayfinding('routeTo', $('#controls #endSelect').val());
-		}
+	$('#controls').on('submit', function (e) {
+		e.preventDefault();
+
+		var first = $(this).find('#beginSelect'),
+			second = $(this).find('#endSelect'),
+			map = $('#myMaps'),
+			bt = $('#findButton'),
+			modal = $(this).parent();
+
+		modal.addClass('hide');
+		bt.removeClass('hide');
+
+		setTimeout(function(){
+			map.wayfinding('startpoint', first.val());
+			map.wayfinding('routeTo', second.val());
+		},500);
 	});
 
-	$('#controls #endSelect').change(function () {
-		$('#myMaps').wayfinding('routeTo', $(this).val());
-	});
+	$('#findButton').on('click', function(){
+		var modal = $('#modalSelect'),
+			bt = $('#findButton');
+
+		bt.addClass('hide');
+		modal.removeClass('hide');
+	})
 
 	setZoomEnvironment();
 	

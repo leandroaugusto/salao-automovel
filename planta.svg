@@ -11,519 +11,519 @@
 			<a id="Exit" xlink:href="#">
 				<g>
 					<rect y="120.213" fill="#020202" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="54.662" height="26.178"/>
-					<text font-size="10" fill="#000" stroke="transparent" y="130">Saída</text>
+					<text font-size="10=" fill="transparent" stroke="transparent" y="130">Saída</text>
 				</g>
 			</a>
 
 			<a id="A2" xlink:href="#">
 				<g>
 					<rect x="55.653" y="175.491" fill="#020202" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="36.185" height="26.178"/>
-					<text font-size="9" fill="#000" stroke="transparent" x="55.653" y="185">2</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="55.653" y="185">2</text>
 				</g>
 			</a>
 			<a id="A3" xlink:href="#">
 				<g>
 					<rect x="92.455" y="175.491" stroke="#000000" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="17.705" height="26.178"/>
-					<text font-size="9" fill="#000" stroke="transparent" x="92.455" y="185">3</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="92.455" y="185">3</text>
 				</g>
 			</a>
 			<a id="A4" xlink:href="#">
 				<g>
 					<rect x="110.932" y="175.491" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="17.708" height="26.178"/>
-					<text font-size="9" fill="#000" stroke="transparent" x="110.932" y="185">4</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="110.932" y="185">4</text>
 				</g>
 			</a>
 			<a id="A5" xlink:href="#">
 				<g>
 					<rect x="129.409" y="175.491" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="17.708" height="26.178"/>
-					<text font-size="9" fill="#000" stroke="transparent" x="129.409" y="185">5</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="129.409" y="185">5</text>
 				</g>
 			</a>
 			<a id="A6" xlink:href="#">
 				<g>
 					<rect x="147.733" y="175.491" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="17.708" height="26.178"/>
-					<text font-size="9" fill="#000" stroke="transparent" x="147.733" y="185">6</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="147.733" y="185">6</text>
 				</g>
 			</a>
 			
 			<a id="A7" xlink:href="#">
 				<g>
 					<rect x="977.769" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="72.371" height="69.29"/>			
-					<text font-size="9" fill="#000" stroke="transparent" x="977.769">7</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="977.769">7</text>
 				</g>
 			</a>
 			<a id="A8" xlink:href="#">
 				<g>
 					<rect x="971.611" y="155.519" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="84.688" height="76.991"/>		
-					<text font-size="9" fill="#000" stroke="transparent" x="971.611" y="165">8</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="971.611" y="165">8</text>
 				</g>
 			</a>
 			<a id="A9" xlink:href="#">
 				<g>
 					<rect x="614.374" y="155.519" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="58.514" height="76.991"/>		
-					<text font-size="9" fill="#000" stroke="transparent" x="614.374" y="165">9</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="614.374" y="165">9</text>
 				</g>
 			</a>
 			<a id="A10" xlink:href="#">
 				<g>
 					<rect x="569.722" y="155.519" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="38.493" height="76.991"/>		
-					<text font-size="9" fill="#000" stroke="transparent" x="569.722" y="165">10</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="569.722" y="165">10</text>
 				</g>
 			</a>
 			<a id="A11" xlink:href="#">
 				<g>
 					<rect x="510.438" y="155.519" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="51.582" height="76.991"/>		
-					<text font-size="9" fill="#000" stroke="transparent" x="510.438" y="165">11</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="510.438" y="165">11</text>
 				</g>
 			</a>
 			<a id="A12" xlink:href="#">
 				<g>
 					<rect x="452.696" y="155.519" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="51.582" height="76.991"/>		
-					<text font-size="9" fill="#000" stroke="transparent" x="452.696" y="165">12</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="452.696" y="165">12</text>
 				</g>
 			</a>
 			<a id="A13" xlink:href="#">
 				<g>
 					<rect x="376.474" y="204.023" fill="#020202" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="67.753" height="28.487"/>		
-					<text font-size="9" fill="#000" stroke="transparent" x="376.474" y="214">13</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="376.474" y="214">13</text>
 				</g>
 			</a>
 			<a id="A14" xlink:href="#">
 				<g>
 					<rect x="342.601" y="204.023" fill="#020202" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="26.175" height="18.479"/>		
-					<text font-size="9" fill="#000" stroke="transparent" x="342.601" y="214">14</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="342.601" y="214">14</text>
 				</g>
 			</a>
 			<a id="A15" xlink:href="#">
 				<g>
 					<rect x="314.882" y="204.023" fill="#020202" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="27.719" height="18.479"/>		
-					<text font-size="9" fill="#000" stroke="transparent" x="314.882" y="214">15</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="314.882" y="214">15</text>
 				</g>
 			</a>
 			<a id="A16" xlink:href="#">
 				<g>
 					<rect x="919.258" y="155.519" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="46.192" height="76.991"/>		
-					<text font-size="9" fill="#000" stroke="transparent" x="919.258" y="165">16</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="919.258" y="165">16</text>
 				</g>
 			</a>
 			<a id="A17" xlink:href="#">
 				<g>
 					<rect x="293.324" y="211.724" fill="#020202" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="15.4" height="10.778"/>		
-					<text font-size="9" fill="#000" stroke="transparent" x="293.324" y="221">17</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="293.324" y="221">17</text>
 				</g>
 			</a>
 			<a id="A18" xlink:href="#">
 				<g>
 					<rect x="819.168" y="155.519" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="92.389" height="76.991"/>		
-					<text font-size="9" fill="#000" stroke="transparent" x="819.168" y="165">18</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="819.168" y="165">18</text>
 				</g>
 			</a>
 			<a id="A19" xlink:href="#">
 				<g>
 					<rect x="757.577" y="155.519" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="55.434" height="76.991"/>		
-					<text font-size="9" fill="#000" stroke="transparent" x="757.577" y="165">19</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="757.577" y="165">19</text>
 				</g>
 			</a>
 			<a id="A20" xlink:href="#">
 				<g>
 					<rect x="679.046" y="155.519" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="70.833" height="76.991"/>		
-					<text font-size="9" fill="#000" stroke="transparent" x="679.046" y="165">20</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="679.046" y="165">20</text>
 				</g>
 			</a>
 			<a id="A21" xlink:href="#">
 				<g>
 					<rect x="376.474" y="155.519" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="67.753" height="42.346"/>		
-					<text font-size="9" fill="#000" stroke="transparent" x="376.474" y="165">21</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="376.474" y="165">21</text>
 				</g>
 			</a>
 			<a id="A22" xlink:href="#">
 				<g>
 					<rect x="314.881" y="155.519" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="53.895" height="42.499"/>		
-					<text font-size="9" fill="#000" stroke="transparent" x="314.881" y="165">22</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="314.881" y="165">22</text>
 				</g>
 			</a>
 			<a id="A23" xlink:href="#">
 				<g>
 					<rect x="276.388" y="155.519" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="32.337" height="32.336"/>		
-					<text font-size="9" fill="#000" stroke="transparent" x="276.388" y="165">23</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="276.388" y="165">23</text>
 				</g>
 			</a>
 			<a id="A24" xlink:href="#">
 				<g>
 					<rect x="292.557" y="194.017" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="16.168" height="11.547"/>		
-					<text font-size="9" fill="#000" stroke="transparent" x="292.557" y="204">24</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="292.557" y="204">24</text>
 				</g>
 			</a>
 			<a id="A25" xlink:href="#">
 				<g>
 					<rect x="276.389" y="194.017" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="16.168" height="11.547"/>		
-					<text font-size="9" fill="#000" stroke="transparent" x="276.389" y="204">25</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="276.389" y="204">25</text>
 				</g>
 			</a>
 			<a id="A26" xlink:href="#">
 				<g>
 					<rect x="254.831" y="155.519" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="15.396" height="32.336"/>		
-					<text font-size="9" fill="#000" stroke="transparent" x="254.831" y="165">26</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="254.831" y="165">26</text>
 				</g>
 			</a>
 			<a id="A27" xlink:href="#">
 				<g>
 					<rect x="244.82" y="194.785" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="12.319" height="6.161"/>		
-					<text font-size="9" fill="#000" stroke="transparent" x="244.82" y="204">27</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="244.82" y="204">27</text>
 				</g>
 			</a>
 			<a id="A28" xlink:href="#">
 				<g>
 					<rect x="200.937" y="155.519" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="47.732" height="32.336"/>		
-					<text font-size="9" fill="#000" stroke="transparent" x="200.937" y="165">28</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="200.937" y="165">28</text>
 				</g>
 			</a>
 			<a id="A29" xlink:href="#">
 				<g>
 					<rect x="232.501" y="194.785" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="12.319" height="6.161"/>		
-					<text font-size="9" fill="#000" stroke="transparent" x="232.501" y="204">29</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="232.501" y="204">29</text>
 				</g>
 			</a>
 			<a id="A30" xlink:href="#">
 				<g>
 					<rect x="209.407" y="194.785" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="12.316" height="6.161"/>		
-					<text font-size="9" fill="#000" stroke="transparent" x="209.407" y="204">30</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="209.407" y="204">30</text>
 				</g>
 			</a>
 			<a id="A31" xlink:href="#">
 				<g>
 					<rect x="184.77" y="176.308" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="7.698" height="18.477"/>		
-					<text font-size="9" fill="#000" stroke="transparent" x="184.77" y="186">31</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="184.77" y="186">31</text>
 				</g>
 			</a>
 			<a id="A32" xlink:href="#">
 				<g>
 					<rect x="192.468" y="194.785" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="16.939" height="6.161"/>		
-					<text font-size="9" fill="#000" stroke="transparent" x="192.468" y="204">32</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="192.468" y="204">32</text>
 				</g>
 			</a>
 			<a id="A33" xlink:href="#">
 				<g>
 					<rect x="933.886" y="77.759" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="96.236" height="67.753"/>		
-					<text font-size="9" fill="#000" stroke="transparent" x="933.886" y="87">33</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="933.886" y="87">33</text>
 				</g>
 			</a>
 			<a id="A34" xlink:href="#">
 				<g>
 					<rect x="642.093" y="77.759" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="64.672" height="67.753"/>		
-					<text font-size="9" fill="#000" stroke="transparent" x="642.093" y="87">34</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="642.093" y="87">34</text>
 				</g>
 			</a>
 			<a id="A35" xlink:href="#">
 				<g>
 					<rect x="563.562" y="77.759" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="70.83" height="67.753"/>		
-					<text font-size="9" fill="#000" stroke="transparent" x="563.562" y="87">35</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="563.562" y="87">35</text>
 				</g>
 			</a>
 			<a id="A36" xlink:href="#">
 				<g>
 					<rect x="468.093" y="77.759" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="87.77" height="67.753"/>		
-					<text font-size="9" fill="#000" stroke="transparent" x="468.093" y="87">36</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="468.093" y="87">36</text>
 				</g>
 			</a>
 			<a id="A37" xlink:href="#">
 				<g>
 					<rect x="414.199" y="77.759" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="46.195" height="67.753"/>		
-					<text font-size="9" fill="#000" stroke="transparent" x="414.199" y="87">37</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="414.199" y="87">37</text>
 				</g>
 			</a>
 			<a id="A38" xlink:href="#">
 				<g>
 					<rect x="375.705" y="77.759" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="30.796" height="67.753"/>		
-					<text font-size="9" fill="#000" stroke="transparent" x="375.705" y="87">38</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="375.705" y="87">38</text>
 				</g>
 			</a>
 			<a id="A39" xlink:href="#">
 				<g>
 					<rect x="324.893" y="77.759" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="43.114" height="67.753"/>		
-					<text font-size="9" fill="#000" stroke="transparent" x="324.893" y="87">39</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="324.893" y="87">39</text>
 				</g>
 			</a>
 			<a id="A40" xlink:href="#">
 				<g>
 					<rect x="291.017" y="114.716" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="27.715" height="30.796"/>		
-					<text font-size="9" fill="#000" stroke="transparent" x="291.017" y="124">40</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="291.017" y="124">40</text>
 				</g>
 			</a>
 			<a id="A41" xlink:href="#">
 				<g>
 					<rect x="269.459" y="114.716" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="15.396" height="30.796"/>		
-					<text font-size="9" fill="#000" stroke="transparent" x="269.459" y="124">41</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="269.459" y="124">41</text>
 				</g>
 			</a>
 			<a id="A42" xlink:href="#">
 				<g>
 					<rect x="254.06" y="114.716" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="15.398" height="30.796"/>		
-					<text font-size="9" fill="#000" stroke="transparent" x="254.06" y="124">42</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="254.06" y="124">42</text>
 				</g>
 			</a>
 			<a id="A43" xlink:href="#">
 				<g>
 					<rect x="227.884" y="114.716" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="20.018" height="30.796"/>		
-					<text font-size="9" fill="#000" stroke="transparent" x="227.884" y="124">43</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="227.884" y="124">43</text>
 				</g>
 			</a>
 			<a id="A44" xlink:href="#">
 				<g>
 					<rect x="200.938" y="133.193" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="20.017" height="12.319"/>		
-					<text font-size="9" fill="#000" stroke="transparent" x="200.938" y="143">44</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="200.938" y="143">44</text>
 				</g>
 			</a>
 			<a id="A45" xlink:href="#">
 				<g>
 					<rect x="829.947" y="77.759" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="96.237" height="67.753"/>		
-					<text font-size="9" fill="#000" stroke="transparent" x="829.947" y="87">45</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="829.947" y="87">45</text>
 				</g>
 			</a>
 			<a id="A46" xlink:href="#">
 				<g>
 					<rect x="186.31" y="114.716" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="7.697" height="30.796"/>		
-					<text font-size="9" fill="#000" stroke="transparent" x="186.31" y="124">46</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="186.31" y="124">46</text>
 				</g>
 			</a>
 			<a id="A47" xlink:href="#">
 				<g>
 					<rect x="174.759" y="92.387" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="6.161" height="53.894"/>		
-					<text font-size="9" fill="#000" stroke="transparent" x="174.759" y="102">47</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="174.759" y="102">47</text>
 				</g>
 			</a>
 			<a id="A48" xlink:href="#">
 				<g>
 					<rect x="153.202" y="140.123" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="15.399" height="12.319"/>		
-					<text font-size="9" fill="#000" stroke="transparent" x="153.202" y="150">48</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="153.202" y="150">48</text>
 				</g>
 			</a>
 			<a id="A49" xlink:href="#">
 				<g>
 					<rect x="130.875" y="140.123" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="15.4" height="12.319"/>		
-					<text font-size="9" fill="#000" stroke="transparent" x="130.875" y="150">49</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="130.875" y="150">49</text>
 				</g>
 			</a>
 			<a id="A50" xlink:href="#">
 				<g>
 					<rect x="746.798" y="77.759" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="76.991" height="67.753"/>		
-					<text font-size="9" fill="#000" stroke="transparent" x="746.798" y="87">50</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="746.798" y="87">50</text>
 				</g>
 			</a>
 			<a id="A51" xlink:href="#">
 				<g>
 					<rect x="714.462" y="77.759" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="24.639" height="67.753"/>		
-					<text font-size="9" fill="#000" stroke="transparent" x="714.462" y="87">51</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="714.462" y="87">51</text>
 				</g>
 			</a>
 			<a id="A52" xlink:href="#">
 				<g>
 					<rect x="153.202" y="121.646" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="15.399" height="12.316"/>		
-					<text font-size="9" fill="#000" stroke="transparent" x="153.202" y="131">52</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="153.202" y="131">52</text>
 				</g>
 			</a>
 			<a id="A53" xlink:href="#">
 				<g>
 					<rect x="130.875" y="121.646" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="15.4" height="12.316"/>		
-					<text font-size="9" fill="#000" stroke="transparent" x="130.875" y="131">53</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="130.875" y="131">53</text>
 				</g>
 			</a>
 			<a id="A54" xlink:href="#">
 				<g>
 					<rect x="291.017" y="77.759" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="27.715" height="30.796"/>		
-					<text font-size="9" fill="#000" stroke="transparent" x="291.017" y="87">54</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="291.017" y="87">54</text>
 				</g>
 			</a>
 			<a id="A55" xlink:href="#">
 				<g>
 					<rect x="269.459" y="93.159" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="15.396" height="15.396"/>		
-					<text font-size="9" fill="#000" stroke="transparent" x="269.459" y="103">55</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="269.459" y="103">55</text>
 				</g>
 			</a>
 			<a id="A56" xlink:href="#">
 				<g>
 					<rect x="241.743" y="97.776" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="20.018" height="10.779"/>		
-					<text font-size="9" fill="#000" stroke="transparent" x="241.743" y="107">56</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="241.743" y="107">56</text>
 				</g>
 			</a>
 			<a id="A57" xlink:href="#">
 				<g>
 					<rect x="229.425" y="97.776" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="12.318" height="10.779"/>		
-					<text font-size="9" fill="#000" stroke="transparent" x="229.425" y="107">57</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="229.425" y="107">57</text>
 				</g>
 			</a>
 			<a id="A58" xlink:href="#">
 				<g>
 					<rect x="184.769" y="93.159" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="35.417" height="15.396"/>		
-					<text font-size="9" fill="#000" stroke="transparent" x="184.769" y="103">58</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="184.769" y="103">58</text>
 				</g>
 			</a>
 			<a id="A59" xlink:href="#">
 				<g>
 					<rect x="210.175" y="114.716" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="10.779" height="18.477"/>		
-					<text font-size="9" fill="#000" stroke="transparent" x="210.175" y="124">59</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="210.175" y="124">59</text>
 				</g>
 			</a>
 			<a id="A60" xlink:href="#">
 				<g>
 					<rect x="200.938" y="114.716" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="9.239" height="18.477"/>		
-					<text font-size="9" fill="#000" stroke="transparent" x="200.938" y="124">60</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="200.938" y="124">60</text>
 				</g>
 			</a>
 			<a id="A61" xlink:href="#">
 				<g>
 					<rect x="153.202" y="103.166" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="15.399" height="12.319"/>		
-					<text font-size="9" fill="#000" stroke="transparent" x="153.202" y="113">61</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="153.202" y="113">61</text>
 				</g>
 			</a>
 			<a id="A62" xlink:href="#">
 				<g>
 					<rect x="130.875" y="92.387" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="30.796" height="4.621"/>		
-					<text font-size="9" fill="#000" stroke="transparent" x="130.875" y="102">62</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="130.875" y="102">62</text>
 				</g>
 			</a>
 			<a id="A63" xlink:href="#">
 				<g>
 					<rect x="130.875" y="103.166" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="15.4" height="12.319"/>		
-					<text font-size="9" fill="#000" stroke="transparent" x="130.875" y="113">63</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="130.875" y="113">63</text>
 				</g>
 			</a>
 			<a id="A64" xlink:href="#">
 				<g>
 					<rect x="977.769" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="72.371" height="69.29"/>		
-					<text font-size="9" fill="#000" stroke="transparent" x="977.769">64</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="977.769">64</text>
 				</g>
 			</a>
 			<a id="A65" xlink:href="#">
 				<g>
 					<rect x="722.16" y="59.283" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="16.94" height="12.319"/>		
-					<text font-size="9" fill="#000" stroke="transparent" x="722.16" y="69">65</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="722.16" y="69">65</text>
 				</g>
 			</a>
 			<a id="A66" xlink:href="#">
 				<g>
 					<rect x="690.597" y="58.511" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="12.315" height="12.319"/>		
-					<text font-size="9" fill="#000" stroke="transparent" x="690.597" y="68">66</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="690.597" y="68">66</text>
 				</g>
 			</a>
 			<a id="A67" xlink:href="#">
 				<g>
 					<rect x="642.11" y="58.511" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="9.239" height="12.319"/>		
-					<text font-size="9" fill="#000" stroke="transparent" x="642.11" y="68">67</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="642.11" y="68">67</text>
 				</g>
 			</a>
 			<a id="A68" xlink:href="#">
 				<g>
 					<rect x="591.279" y="59.283" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="27.715" height="12.319"/>		
-					<text font-size="9" fill="#000" stroke="transparent" x="591.279" y="69">68</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="591.279" y="69">68</text>
 				</g>
 			</a>
 			<a id="A69" xlink:href="#">
 				<g>
 					<rect x="583.578" y="59.283" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="7.701" height="12.319"/>		
-					<text font-size="9" fill="#000" stroke="transparent" x="583.578" y="69">69</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="583.578" y="69">69</text>
 				</g>
 			</a>
 			<a id="A70" xlink:href="#">
 				<g>
 					<rect x="514.097" y="58.959" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="12.318" height="12.319"/>		
-					<text font-size="9" fill="#000" stroke="transparent" x="514.097" y="68">70</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="514.097" y="68">70</text>
 				</g>
 			</a>
 			<a id="A71" xlink:href="#">
 				<g>
 					<rect x="480.22" y="58.959" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="15.396" height="12.319"/>		
-					<text font-size="9" fill="#000" stroke="transparent" x="480.22" y="68">71</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="480.22" y="68">71</text>
 				</g>
 			</a>
 			<a id="A72" xlink:href="#">
 				<g>
 					<rect x="462.511" y="65.117" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="12.319" height="6.161"/>		
-					<text font-size="9" fill="#000" stroke="transparent" x="462.511" y="75">72</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="462.511" y="75">72</text>
 				</g>
 			</a>
 			<a id="A73" xlink:href="#">
 				<g>
 					<rect x="450.192" y="65.117" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="12.318" height="6.161"/>		
-					<text font-size="9" fill="#000" stroke="transparent" x="450.192" y="75">73</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="450.192" y="75">73</text>
 				</g>
 			</a>
 			<a id="A74" xlink:href="#">
 				<g>
 					<rect x="403.229" y="65.117" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="30.796" height="6.161"/>		
-					<text font-size="9" fill="#000" stroke="transparent" x="403.229" y="75">74</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="403.229" y="75">74</text>
 				</g>
 			</a>
 			<a id="A75" xlink:href="#">
 				<g>
 					<rect x="383.211" y="65.117" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="20.018" height="6.161"/>		
-					<text font-size="9" fill="#000" stroke="transparent" x="383.211" y="75">75</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="383.211" y="75">75</text>
 				</g>
 			</a>
 			<a id="A76" xlink:href="#">
 				<g>
 					<rect x="350.875" y="65.117" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="32.336" height="6.161"/>		
-					<text font-size="9" fill="#000" stroke="transparent" x="350.875" y="75">76</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="350.875" y="75">76</text>
 				</g>
 			</a>
 			<a id="A77" xlink:href="#">
 				<g>
 					<rect x="313.149" y="65.117" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="26.947" height="6.161"/>		
-					<text font-size="9" fill="#000" stroke="transparent" x="313.149" y="75">77</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="313.149" y="75">77</text>
 				</g>
 			</a>
 			<a id="A78" xlink:href="#">
 				<g>
 					<rect x="910.017" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="61.595" height="69.29"/>		
-					<text font-size="9" fill="#000" stroke="transparent" x="910.017">78</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="910.017">78</text>
 				</g>
 			</a>
 			<a id="A79" xlink:href="#">
 				<g>
 					<rect x="293.132" y="65.117" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="20.018" height="6.161"/>		
-					<text font-size="9" fill="#000" stroke="transparent" x="293.132" y="75">79</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="293.132" y="75">79</text>
 				</g>
 			</a>
 			<a id="A80" xlink:href="#">
 				<g>
 					<rect x="277.157" y="77.76" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="7.698" height="15.399"/>		
-					<text font-size="9" fill="#000" stroke="transparent" x="277.157" y="87">80</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="277.157" y="87">80</text>
 				</g>
 			</a>
 			<a id="A81" xlink:href="#">
 				<g>
 					<rect x="269.458" y="77.759" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="7.698" height="15.399"/>		
-					<text font-size="9" fill="#000" stroke="transparent" x="269.458" y="87">81</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="269.458" y="87">81</text>
 				</g>
 			</a>
 			<a id="A82" xlink:href="#">
 				<g>
 					<rect x="266.186" y="65.117" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="26.946" height="6.161"/>		
-					<text font-size="9" fill="#000" stroke="transparent" x="266.186" y="75">82</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="266.186" y="75">82</text>
 				</g>
 			</a>
 			<a id="A83" xlink:href="#">
 				<g>
 					<rect x="877.681" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="24.638" height="69.29"/>		
-					<text font-size="9" fill="#000" stroke="transparent" x="877.681">83</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="877.681">83</text>
 				</g>
 			</a>
 			<a id="A84" xlink:href="#">
 				<g>
 					<rect x="853.045" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="18.478" height="69.29"/>		
-					<text font-size="9" fill="#000" stroke="transparent" x="853.045">84</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="853.045">84</text>
 				</g>
 			</a>
 			<a id="A85" xlink:href="#">
 				<g>
 					<rect x="762.195" y="59.283" stroke="#FFFFFF" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="12.319" height="12.319"/>		
-					<text font-size="9" fill="#000" stroke="transparent" x="762.195" y="69">85</text>
+					<text font-size="9" fill="transparent" stroke="transparent" x="762.195" y="69">85</text>
 				</g>
 			</a>
 			<a id="Entrance" xlink:href="#">
 				<g>
 					<rect x="1157.264" y="60.569" fill="#020202" stroke="#00FF00" stroke-width="0" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="122.909" height="300.718"/>
-					<text font-size="9" fill="#000" stroke="transparent" x="1157.264" y="70">Entrada</text>
+					<text font-size="10" fill="transparent" stroke="transparent" x="1157.264" y="70">Entrada</text>
 				</g>
 			</a>
 		</g>
