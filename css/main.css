@@ -166,10 +166,7 @@
 
 /* Map */
 	div#myMaps {
-<<<<<<< HEAD
-=======
 		cursor: move;
->>>>>>> ea75017cbc2d933b22ed6d5702f11efef336b387
 		margin: 6rem auto 0;
 		width: 1280.17px;
 		height: 450px;
@@ -204,11 +201,7 @@
 	}
 
 /* Media */
-<<<<<<< HEAD
-@media only screen and (max-width: 768px) {
-=======
 @media only screen and (max-width: 1024px) {
->>>>>>> ea75017cbc2d933b22ed6d5702f11efef336b387
 	h1 {
 		font-size: 1.4rem;
 	}
@@ -218,10 +211,7 @@
 		box-sizing: border-box;
 		overflow-x: auto;
 	}
-<<<<<<< HEAD
-=======
 	div#myMaps svg {
 		width: 100%;
 	}
->>>>>>> ea75017cbc2d933b22ed6d5702f11efef336b387
 }

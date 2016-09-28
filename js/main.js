@@ -6,8 +6,6 @@ var START_ROOM = 'Entrance';
 var DEFAULT_MAP = 'floor1';
 var lastRoomSelected;
 
-<<<<<<< HEAD
-=======
 // Variables for zoom
 var MAX_ZOOM_IN = 16.0,
 	MAX_ZOOM_OUT = 1.0,
@@ -23,7 +21,6 @@ zoomTranslationMap.set(4, 3.0);
 zoomTranslationMap.set(8, 2.33);
 zoomTranslationMap.set(16, 2.14);
 
->>>>>>> ea75017cbc2d933b22ed6d5702f11efef336b387
 //Setup options for wayfinding
 $(document).ready(function () {
 	'use strict';
@@ -60,22 +57,13 @@ $(document).ready(function () {
 		},500);
 	});
 
-<<<<<<< HEAD
-	$('#findButton').on('click', function(){
-=======
+
 	$('#findButton').on('click', function() {
->>>>>>> ea75017cbc2d933b22ed6d5702f11efef336b387
 		var modal = $('#modalSelect'),
 			bt = $('#findButton');
 
 		bt.addClass('hide');
 		modal.removeClass('hide');
-<<<<<<< HEAD
-	})
-
-	setZoomEnvironment();
-	
-=======
 	});
 
 	$('#Rooms a').on('click', function(e) {
@@ -83,16 +71,12 @@ $(document).ready(function () {
 	});
 
 	setZoomEnvironment();
->>>>>>> ea75017cbc2d933b22ed6d5702f11efef336b387
 });
 
 //Create the zoom beaviour and wait for map creation and then set zoom behaviour on it
-function setZoomEnvironment(){
-<<<<<<< HEAD
-=======
+function setZoomEnvironment() {
 	//Create the zoom behavior to set for the draw
 	zoom = d3.behavior.zoom().scaleExtent([MAX_ZOOM_OUT, MAX_ZOOM_IN]).on('zoom', zoomed);
->>>>>>> ea75017cbc2d933b22ed6d5702f11efef336b387
 	waitMapsCreation();
 }
 
@@ -109,11 +93,6 @@ function waitMapsCreation(){
 		if(allMapsCreated){
 			//Cancel the timer
 			clearInterval(checkMapsCreationFunction);
-<<<<<<< HEAD
-		}
-	},100)
-}
-=======
 			$.map(MAPS, function(value) {
 				setZoomBehaviourForMap(value.id);
 			});
@@ -151,4 +130,3 @@ function zoomed() {
 	//alert("Richiesto livello di zoom " + d3.event.scale + " e traslazione in " + centerX + ", " + centerY);
 	zoomObj.zoomMap.attr("transform", "translate(" + zoomObj.centerX + ", " + zoomObj.centerY + ")scale(" + d3.event.scale + ")");
 }
->>>>>>> ea75017cbc2d933b22ed6d5702f11efef336b387
