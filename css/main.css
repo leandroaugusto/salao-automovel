@@ -166,6 +166,7 @@
 
 /* Map */
 	div#myMaps {
+		cursor: move;
 		margin: 6rem auto 0;
 		width: 1280.17px;
 		height: 450px;
@@ -200,7 +201,7 @@
 	}
 
 /* Media */
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 1024px) {
 	h1 {
 		font-size: 1.4rem;
 	}
@@ -209,5 +210,8 @@
 		padding: 1rem 2rem;
 		box-sizing: border-box;
 		overflow-x: auto;
+	}
+	div#myMaps svg {
+		width: 100%;
 	}
 }
