@@ -85,17 +85,14 @@
 		opacity: 0;
 		visibility: hidden;
 	}
-	#modalSelect:before {
-		content: '';
-		display: inline-block;
-		vertical-align: middle;
-		position: relative;
-		height: 100%;
-	}
 	#controls {
-		display: inline-block;
-		vertical-align: middle;
-		width: 330px;
+		position: absolute;
+		width: 320px;
+		height: 300px;
+		top: 50%;
+		left: 50%;
+		margin-top: -150px;
+		margin-left: -160px;
 	}
 	#controls fieldset {
 		border: 0;
@@ -146,7 +143,7 @@
 		background-color: #2383a2;
 		outline: none;
 		position: relative;
-		margin-top: 1rem;
+		margin-top: 2rem;
 		text-indent: -9999px;
 	}
 	#controls button:before {
@@ -166,7 +163,6 @@
 
 /* Map */
 	div#myMaps {
-		cursor: move;
 		margin: 6rem auto 0;
 		width: 1280.17px;
 		height: 450px;
@@ -174,6 +170,8 @@
 	div#myMaps div {
 		display: inline-block;
 		width: 100%;
+		cursor: move;
+		box-shadow: inset 0 0 20px -8px #000000;
 	}
 	div#mapLoading {
 		font-size: 10em;
@@ -205,11 +203,15 @@
 	h1 {
 		font-size: 1.4rem;
 	}
+	#controls {
+		width: 300px;
+		margin-left: -150px;
+	}
 	div#myMaps {
 		width: 100%;
 		padding: 1rem 2rem;
 		box-sizing: border-box;
-		overflow-x: auto;
+		/*overflow-x: auto;*/
 	}
 	div#myMaps svg {
 		/*width: 100%;*/

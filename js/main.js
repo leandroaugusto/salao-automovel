@@ -74,9 +74,8 @@ $(document).ready(function () {
 });
 
 //Create the zoom beaviour and wait for map creation and then set zoom behaviour on it
-function setZoomEnvironment() {
-	//Create the zoom behavior to set for the draw
-	// zoom = d3.behavior.zoom().scaleExtent([MAX_ZOOM_OUT, MAX_ZOOM_IN]).on('zoom', zoomed);
+function setZoomEnvironment(){
+	zoom = d3.behavior.zoom().scaleExtent([MAX_ZOOM_OUT, MAX_ZOOM_IN]).on('zoom', zoomed);
 	waitMapsCreation();
 }
 
@@ -91,7 +90,6 @@ function waitMapsCreation(){
 			}
 		});
 		if(allMapsCreated){
-			//Cancel the timer
 			clearInterval(checkMapsCreationFunction);
 			// $.map(MAPS, function(value) {
 			// 	setZoomBehaviourForMap(value.id);
@@ -127,6 +125,5 @@ function zoomed() {
 	var zoomObj = zoomObjects[id];
 	zoomObj.centerX = d3.round(d3.event.translate[0]);
 	zoomObj.centerY = d3.round(d3.event.translate[1]);
-	//alert("Richiesto livello di zoom " + d3.event.scale + " e traslazione in " + centerX + ", " + centerY);
 	zoomObj.zoomMap.attr("transform", "translate(" + zoomObj.centerX + ", " + zoomObj.centerY + ")scale(" + d3.event.scale + ")");
 }
