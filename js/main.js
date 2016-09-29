@@ -91,9 +91,9 @@ function waitMapsCreation(){
 		});
 		if(allMapsCreated){
 			clearInterval(checkMapsCreationFunction);
-			// $.map(MAPS, function(value) {
-			// 	setZoomBehaviourForMap(value.id);
-			// });
+			$.map(MAPS, function(value) {
+				setZoomBehaviourForMap(value.id);
+			});
 		}
 	},100)
 }
