@@ -7,7 +7,7 @@
 	html, body {
 		width: 100%;
 		position: relative;
-		min-height: 100%
+		height: 100%
 	}
 
 	body {
@@ -73,6 +73,7 @@
 		top: 0;
 		width: 100%;
 		height: 100%;
+		z-index: 100;
 		background-color: rgba(0,0,0,.8);
 		box-sizing: border-box;
 		-webkit-transition: 0.5s;
@@ -164,8 +165,9 @@
 /* Map */
 	div#myMaps {
 		margin: 6rem auto 0;
-		width: 1280.17px;
+		width: 95%;
 		height: 450px;
+		position: relative;
 	}
 	div#myMaps div {
 		display: inline-block;
@@ -203,17 +205,26 @@
 	h1 {
 		font-size: 1.4rem;
 	}
+	#findAgain {
+		height: 12%;
+		z-index: 1;
+	}
 	#controls {
 		width: 300px;
 		margin-left: -150px;
 	}
 	div#myMaps {
+		margin: 0;
 		width: 100%;
-		padding: 1rem 2rem;
+		height: 100%;
+		padding: 0;
 		box-sizing: border-box;
-		/*overflow-x: auto;*/
+	}
+	div#myMaps div {
+		height: 100%;
 	}
 	div#myMaps svg {
 		width: 100%;
+		height: 100%;
 	}
 }
