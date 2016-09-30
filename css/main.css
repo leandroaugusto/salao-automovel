@@ -165,15 +165,22 @@
 /* Map */
 	div#myMaps {
 		margin: 6rem auto 0;
-		width: 95%;
-		height: 450px;
+		width: 98%;
+		height: 500px;
 		position: relative;
+		padding: 0;
+		box-sizing: border-box;
 	}
 	div#myMaps div {
 		display: inline-block;
 		width: 100%;
+		height: 100%;
 		cursor: move;
 		box-shadow: inset 0 0 20px -8px #000000;
+	}
+	div#myMaps svg {
+		width: 100%;
+		height: 100%;
 	}
 	div#mapLoading {
 		font-size: 10em;
@@ -215,15 +222,6 @@
 	}
 	div#myMaps {
 		margin: 0;
-		width: 100%;
-		height: 100%;
-		padding: 0;
-		box-sizing: border-box;
-	}
-	div#myMaps div {
-		height: 100%;
-	}
-	div#myMaps svg {
 		width: 100%;
 		height: 100%;
 	}
