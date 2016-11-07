@@ -166,7 +166,7 @@
 	div#myMaps {
 		margin: 6rem auto 0;
 		width: 98%;
-		height: 500px;
+		height: 600px;
 		position: relative;
 		padding: 0;
 		box-sizing: border-box;
@@ -176,7 +176,7 @@
 		width: 100%;
 		height: 100%;
 		cursor: move;
-		box-shadow: inset 0 0 20px -8px #000000;
+		/*box-shadow: inset 0 0 20px -8px #000000;*/
 	}
 	div#myMaps svg {
 		width: 100%;
