@@ -1,8 +1,8 @@
 // Variables for wayfinding
 var MAPS = [
-			{'path': 'planta.svg', 'id': 'floor1'}
+			{'path': 'planta2.svg', 'id': 'floor1'}
 		];
-var START_ROOM = 'Entrance';
+var START_ROOM = 'motorPress';
 var DEFAULT_MAP = 'floor1';
 var lastRoomSelected;
 
@@ -27,7 +27,7 @@ $(document).ready(function () {
 	$('#myMaps').wayfinding({
 		'maps': MAPS,
 		'path': {
-			width: 3,
+			width: 2,
 			color: 'red',
 			radius: 8,
 			speed: 2
