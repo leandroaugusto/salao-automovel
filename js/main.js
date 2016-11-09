@@ -1,8 +1,8 @@
 // Variables for wayfinding
 var MAPS = [
-			{'path': 'planta2.svg', 'id': 'floor1'}
+			{'path': 'planta3.svg', 'id': 'floor1'}
 		];
-var START_ROOM = 'motorPress';
+var START_ROOM = 'Entrance';
 var DEFAULT_MAP = 'floor1';
 var lastRoomSelected;
 
